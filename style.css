@@ -588,7 +588,11 @@ gap:10px;
 }
 
 .explore__card{
-    flex-basis:50%;
+    flex-basis:20%;
+}
+
+.explore__card img{
+    justify-content: center;
 }
 
 }
